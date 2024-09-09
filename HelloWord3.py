@@ -1,1 +1,1 @@
-print("Hello Word estamos con tecnico")
+print("Hello mi vercion mera mera")
