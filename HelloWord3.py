@@ -1,1 +1,1 @@
-print("Hello Word tres en letras pero nuevo")
+print("Hello Word de forma actualizada para todos")
