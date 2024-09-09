@@ -1,1 +1,1 @@
-print("Hello Word de forma actualizada para todos")
+print("Hello Word ux sisi")
